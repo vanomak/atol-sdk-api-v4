@@ -3,7 +3,7 @@
   "description": "Atol.online SDK Version 4",
   "require": {
     "php": ">=7.2",
-    "psr/log": "^1.0.2",
+    "psr/log": "^2.0",
     "myclabs/php-enum": "^1.6",
     "ext-curl": "*",
     "ext-json": "*"
